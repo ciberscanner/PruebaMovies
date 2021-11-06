@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Mocker (2.5.4)
+  - ViewAnimator (3.1.0)
+  - youtube-ios-player-helper (1.0.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - Mocker
+  - ViewAnimator
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Mocker
+    - ViewAnimator
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Mocker: a507909031ef5d1014fe18f383c1d0f96c182b99
+  ViewAnimator: a9ceed80266e00fd435ec4fb99b2df64d580d0e4
+  youtube-ios-player-helper: 0185c57db23c80d63d6ca11251d110abb8a4ca61
+
+PODFILE CHECKSUM: 13a48e69482d34fc50955fc5063235bf60487aa6
+
+COCOAPODS: 1.10.1
